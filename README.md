@@ -10,3 +10,8 @@ A basic Notes application built with FastAPI, SQLAlchemy, and JWT authentication
 - Modular project structure (models, routers, schemas)
 
 To run this project locally, clone the repository, create a virtual environment using python -m venv venv, and activate it (venv\Scripts\activate on Windows or source venv/bin/activate on macOS/Linux). Then install dependencies using pip install -r requirements.txt, and start the server with uvicorn main:app --reload. Once running, you can access the API documentation at http://127.0.0.1:8000/docs.
+
+## Output Screenshot
+
+![Description](ss/allapi.png)
+
